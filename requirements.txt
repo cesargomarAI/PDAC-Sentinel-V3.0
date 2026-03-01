@@ -1,0 +1,14 @@
+# Frontend & Interface
+streamlit==1.30.0
+
+# AI & Reasoning Agent
+huggingface_hub
+smolagents==1.0.0
+
+# Data Science & Logic
+pydantic==2.5.3
+pandas
+joblib==1.3.2
+
+# Utilities
+requests==2.31.0
